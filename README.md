@@ -1,6 +1,6 @@
 # What-To-Watch
 
-What-To-Watch is a custom movie recommender system which suggests popular movies based on some custom ratings given by a user to a few movies from our huge pool. The suggestions for each user differ based on their movie choice.  
+What-To-Watch is a machine-learning based custom movie recommender system which suggests popular movies based on some custom ratings given by a user to a few movies from our huge pool. The suggestions for each user differ based on their movie choice.  
 
 
 ## Results
