@@ -19,7 +19,7 @@ Here is a list of movie-suggestions based on my preferences for many movies as p
 Here is a list of movie-suggestions similar to Toy Story (1995)  as per the second statistical algorithm :
 
  
-![Suggestions](./docs/images/result2.png) 
+![Suggestions](./result2.png) 
 
 
 ## Installations and Setup
